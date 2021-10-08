@@ -1,0 +1,8 @@
+this is a test
+find -name 
+grep
+chmod 
+read
+exec
+select
+delete
